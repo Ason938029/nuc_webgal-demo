@@ -1,0 +1,4 @@
+; 初始场景，以及特效演示
+intro:注意看，這個男人太狠了，男人名叫小帥，第一次來到中大，想要談戀愛 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+小帥:我是小帥，不想上課了，怎麼才能談戀愛呢;
+choose:翹課睡覺:room.txt|前往教室上課:class.txt;
